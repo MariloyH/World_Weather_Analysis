@@ -5,6 +5,7 @@ BootCamp Week6
   
 ## Results
   We started by generating a file with random coordinates, from this we filter the places with  temperatures below a maximun deteminated, and the results were store in a database *Weatherpy_Database*. From there, according to the client's weather preference, we show them a Google map with the places that fit their selection with a hotel option. 
+  
 **WeatherPy_vacation_map.png**
 <img width="700" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/102195803/167911268-d67ce5ff-247d-466f-825d-ed4fbc8aba67.png">
 
@@ -16,5 +17,5 @@ BootCamp Week6
 **North odf Spain travel hotels (WeatherPy_travel_markers)**
 <img width="1440" alt="WeatherPy_travel_markers" src="https://user-images.githubusercontent.com/102195803/167911653-8a39eacd-e400-4cdc-9412-2b5176430d25.png">
 
-##Summary 
+## Summary 
 For me, this project seemed very illustrative about the management of APIs to get information that already exists and it can be consulted.  In this project we consulted Google Maps combining the knowledge acquired from Python, Pandas, Mathplotlib. A very good resume for this knowledge.
