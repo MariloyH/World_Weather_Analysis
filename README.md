@@ -4,12 +4,12 @@ BootCamp Challenge Week6 **Using API´s to visualize Data**
   For this week, we will help the travel company Planmytrip which offer its clients a variety of travel options depending on the weather they prefer. For this we will use the Google maps platform, API requests and Jupyter maps. 
   
 ## Results
-  We started by generating a file with random coordinates, from this we filter the places with  temperatures below a maximun deteminated, and the results were store in a database *Weatherpy_Database*. From there, according to the client's weather preference, we show them a Google map with the places that fit their selection with a hotel option. 
+  We started by generating a file with random coordinates, from this we filtered the places with  temperatures below a maximun deteminated, and the results were saved in a database *Weatherpy_Database.csv*. From there, according to the client's weather preference, we stored the results in *WeatherPy_vacation.csv* file, and we showed them a Google map with the places that fitted their selection with a suggest hotel. 
   
 **WeatherPy_vacation_map.png**
 <img width="700" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/102195803/167911268-d67ce5ff-247d-466f-825d-ed4fbc8aba67.png">
 
-  Subsequently, the client is asked to refine the search based in its weather preference, and then, assuming that the client has chosen 4 places to visit (in this case, we chose the North of Spain), and we presented  a Google map with a proposed route to visit the places and another map  with its correspondent hotel options.
+  Subsequently, the client is asked to refine the search based in its weather preference, and then, assuming that the client has chosen 4 places to visit (in this case, we chose the North of Spain), and we presented  a Google map with a proposed route to visit the places and another map  with a hotel suggestion.
   
 **North of Spain travel route (WeatherPy_travel_map.png)**
   <img width="669" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/102195803/167911626-2dab6351-2aa2-4899-90ad-2f389ea07a1f.png">
