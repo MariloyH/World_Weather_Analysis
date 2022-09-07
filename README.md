@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
 BootCamp Challenge Week6 **Using API´s to visualize Data**
 ## Overview
   For this week, we will help the travel company Planmytrip which offer its clients a variety of travel options depending on the weather they prefer. For this we will use the Google maps platform, API requests and Jupyter maps. 
