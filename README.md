@@ -14,7 +14,7 @@ BootCamp Challenge Week6 **Using API´s to visualize Data**
 **North of Spain travel route (WeatherPy_travel_map.png)**
   <img width="669" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/102195803/167911626-2dab6351-2aa2-4899-90ad-2f389ea07a1f.png">
 
-**North odf Spain travel hotels (WeatherPy_travel_markers)**
+**North of Spain travel hotels (WeatherPy_travel_markers)**
 <img width="1440" alt="WeatherPy_travel_markers" src="https://user-images.githubusercontent.com/102195803/167911653-8a39eacd-e400-4cdc-9412-2b5176430d25.png">
 
 ## Summary 
